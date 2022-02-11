@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Senior Scientist"
   location         : "Kansas City, KS"
-  employer         : "Hoglund Biomedical Imaging Center, University of Kansas Medical Center"
+  employer         : "Hoglund Biomedical Imaging Center\nUniversity of Kansas Medical Center"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Bartolotti+James&cauthor_id=22462514"
   googlescholar    : "https://scholar.google.com/citations?user=5iGugv4AAAAJ&hl=en"
   email            :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
