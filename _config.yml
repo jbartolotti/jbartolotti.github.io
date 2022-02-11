@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James Bartolotti"
+title                    : "James Bartolotti, PhD"
 title_separator          : "-"
 name                     : &name "James Bartolotti"
-description              : &description "Autism and anxiety neuroscientist"
+description              : &description "Senior Scientist"
 url                      : https://jbartolotti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jbartolotti.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "James Bartolotti"
   avatar           : "profile.png"
-  bio              : "Autism and anxiety neuroscientist"
-  location         : "Lawrence, KS"
-  employer         : "University of Kansas"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Senior Scientist"
+  location         : "Kansas City, KS"
+  employer         : "Hoglund Biomedical Imaging Center, University of Kansas Medical Center"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Bartolotti+James&cauthor_id=22462514"
+  googlescholar    : "https://scholar.google.com/citations?user=5iGugv4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/jbartolotti"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-0224-6413"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
